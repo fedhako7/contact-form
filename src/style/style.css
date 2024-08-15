@@ -1,0 +1,20 @@
+form {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(236, 109, 109);
+  align-content: center;
+  border-radius: 5%;
+  box-shadow: inset 4px 4px 4px rgb(133, 125, 125);
+}
+
+form input {
+  height: 23px;
+  width: 230px;
+}
+
+.errors {
+  margin-top: 1px;
+  color: red;
+  font-size: 14px;
+  font-style: italic;
+}
